@@ -29,7 +29,6 @@ dash-renderer==1.4.1
 dash-table==4.7.0
 dbus-python==1.2.12
 decorator==4.4.1
-defer==1.0.6
 defusedxml==0.6.0
 distro==1.3.0
 distro-info===0.21ubuntu4
