@@ -126,7 +126,7 @@ pyrsistent==0.15.7
 pytz==2019.2
 pyxattr==0.6.1
 pyxdg==0.25
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.1.1
 qtconsole==4.6.0
 reportlab==3.5.23
