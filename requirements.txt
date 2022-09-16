@@ -77,7 +77,7 @@ lesscpy==0.14.0
 lockfile==0.12.2
 lxml==4.5.0
 macaroonbakery==1.2.3
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 matplotlib==3.1.2
 mistune==0.8.4
